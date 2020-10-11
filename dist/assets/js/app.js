@@ -20371,7 +20371,7 @@ var require;var require;var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\OloviannikovIV\Downloads\Corp_2.0-develop\Corp_2.0-develop\src\assets\js\app.js */"./src/assets/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\excal\onedrive\Документы\GitHub\RGSU-templates\RGSU-templates\src\assets\js\app.js */"./src/assets/js/app.js");
 
 
 /***/ }),
